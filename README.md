@@ -1,3 +1,10 @@
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Noman6542/Noman6542/main/Frontend%20Developer..png" alt="Frontend Developer" />
+</p>
+
+
+
 <h1 align="center">Hi 👋, I'm Abdullah al Noman</h1>
 <h3 align="center">A Passionate Frontend Developer from Bangladesh</h3>
 
