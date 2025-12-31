@@ -57,7 +57,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noman6542&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+  <!-- Streak Stats alternative (stable Vercel deploy) -->
+  <img src="https://streak-stats.demolab.com/?user=noman6542&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
 </p>
 
 <p align="center">
