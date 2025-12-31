@@ -25,7 +25,7 @@
 <p align="center">
   <a href="mailto:mdaanoman6@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.facebook.com/mdabdullah.alnoman.7737"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://www.linkedin.com/in/abdullah-al-noman-6b1a3a294/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/abdullah-al-6-noman"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 <br/>
@@ -49,30 +49,22 @@
 
 <br/>
 
-### 📊 GitHub Analytics
-
+### 🏆 Recent Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noman6542&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noman6542&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
-</p>
-
-<p align="center">
-  <!-- Streak Stats alternative (stable Vercel deploy) -->
-  <img src="https://streak-stats.demolab.com/?user=noman6542&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=noman6542&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies"/>
+  <a href="https://github.com/Noman6542">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=noman6542&theme=tokyo-night&hide_border=true&custom_title=My%20Contribution%20Graph" alt="Abdullah's Contribution Graph" />
+  </a>
 </p>
 
 <br/>
 
-### 🏆 Contribution Snake (Animated)
+### 📈 Key GitHub Metrics
 <p align="center">
-  <img src="https://github.com/Noman6542/Noman6542/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+  <img src="https://img.shields.io/github/stars/Noman6542?label=Stars%20Earned&style=social" alt="Stars"/>
+  <img src="https://img.shields.io/github/followers/Noman6542?label=Followers&style=social" alt="Followers"/>
+  <img src="https://img.shields.io/github/commit-activity/m/Noman6542/Noman6542?label=Commits%20Last%20Month&color=brightgreen" alt="Commits"/>
+  <img src="https://img.shields.io/github/repo-size/Noman6542/Noman6542?label=Profile%20Repo%20Size" alt="Repo Size"/>
 </p>
-
-*(Updates automatically every 12 hours via GitHub Actions)*
 
 <br/>
 
@@ -84,8 +76,9 @@
 <br/>
 
 <p align="center">
-  <img src="https://github.com/DenverCoder1/custom-icon-badges/blob/main/examples/coffee.svg" alt="Coffee Badge"/>
-  <img src="https://github.com/DenverCoder1/custom-icon-badges/blob/main/examples/code.svg" alt="Code Badge"/>
+  <img src="https://img.shields.io/badge/Coffee-Fueled%20Coder-FFDD00?style=for-the-badge&logo=coffee&logoColor=black" alt="Coffee Badge"/>
+  <img src="https://img.shields.io/badge/Code-%26%20Debug-00BCD4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Code Badge"/>
+  <img src="https://img.shields.io/badge/Always%20Learning-4CAF50?style=for-the-badge&logo=book&logoColor=white" alt="Learning Badge"/>
 </p>
 
 **Thanks for stopping by! ⭐ Star my repos if you find them useful. Let's connect and build something amazing together!** 🚀
